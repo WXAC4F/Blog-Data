@@ -1,2 +1,2 @@
 # This repository is for CDN
-[My Blog](https://blog.wxacn.xyz)
+[My Blog](https://blog.wxac4f.icu)
