@@ -1,2 +1,3 @@
-# This repository is for CDN
+# Blog-CDN
 [My Blog](https://blog.wxac4f.icu)
+# IGNORE IT
